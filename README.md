@@ -1,0 +1,16 @@
+HELLO WORLD IN GO
+
+![Screenshot 2024-03-10 234650](https://github.com/ananthan57/7376212CB106/assets/103254249/62ff0c01-8603-4c16-ad32-64ea3667a1f3)
+
+CALL FROM ONE MODULE TO ANOTHER AND SHOW IN LOCALHOST AND POSTMAN
+
+![Screenshot 2024-03-11 003852](https://github.com/ananthan57/7376212CB106/assets/103254249/be1304d5-4a1b-42ee-a6be-6d7cbf154fcb)
+
+CREATE A DOCKERFILE TA ACCESS THE FILE
+
+      -> ANALYSE THE IMAGE SIZE
+      
+![docker](https://github.com/ananthan57/7376212CB106/assets/103254249/3c8100ea-650f-409b-9eba-56805a988539)
+
+      
+
